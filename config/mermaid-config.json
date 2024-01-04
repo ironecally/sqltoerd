@@ -1,0 +1,9 @@
+{
+    "er": {
+      "layoutDirection": "LR",
+      "fontSize": 24,
+      "entityPadding": 20,
+      "diagramPadding": 20
+    },
+    "wrap": false
+  }
