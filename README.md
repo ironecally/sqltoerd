@@ -1,7 +1,7 @@
 # sqltoerd
-Read DDL from .sql and generate ERD (Entity Relationship Diagram) based on [mermaid.ink](https://mermaid.ink) format!
+Read DDL from .sql and generate [WIP]~ERD (Entity Relationship Diagram)~ Entity List (No Relation between each diagram yet, SORRY!) based on [mermaid.ink](https://mermaid.ink) format!
 
-This tool will read DDL (Data Definition Language) from.sql file that put under `source` folder, and parsing the result to `result` folder.
+This tool will read DDL (Data Definition Language) from.sql file that is put under `source` folder, and parse the result to `result` folder.
 
 # Prerequisite
 - `npm` installed (this is required to install mermaid-cli)
